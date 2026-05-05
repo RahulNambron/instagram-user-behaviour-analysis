@@ -1,4 +1,4 @@
-# Instagram User Behaviour Analysis (SQL Project)
+# Instagram Social media Analysis (SQL Project)
 
 ## About this project
 In this project, I analyzed Instagram user data to understand how users interact on the platform.
